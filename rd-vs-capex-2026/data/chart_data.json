@@ -1,0 +1,494 @@
+{
+  "Microsoft": [
+    {
+      "company": "Microsoft",
+      "year": 2015,
+      "rd_billions": 12.0,
+      "capex_billions": 5.9,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 0.49,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": -6.1
+    },
+    {
+      "company": "Microsoft",
+      "year": 2016,
+      "rd_billions": 12.0,
+      "capex_billions": 8.3,
+      "revenue_billions": 91.2,
+      "capex_to_rd_ratio": 0.7,
+      "rd_pct_revenue": 13.2,
+      "capex_pct_revenue": 9.2,
+      "capex_minus_rd_billions": -3.6
+    },
+    {
+      "company": "Microsoft",
+      "year": 2017,
+      "rd_billions": 13.0,
+      "capex_billions": 8.1,
+      "revenue_billions": 96.6,
+      "capex_to_rd_ratio": 0.62,
+      "rd_pct_revenue": 13.5,
+      "capex_pct_revenue": 8.4,
+      "capex_minus_rd_billions": -4.9
+    },
+    {
+      "company": "Microsoft",
+      "year": 2018,
+      "rd_billions": 14.7,
+      "capex_billions": 11.6,
+      "revenue_billions": 110.4,
+      "capex_to_rd_ratio": 0.79,
+      "rd_pct_revenue": 13.3,
+      "capex_pct_revenue": 10.5,
+      "capex_minus_rd_billions": -3.1
+    },
+    {
+      "company": "Microsoft",
+      "year": 2019,
+      "rd_billions": 16.9,
+      "capex_billions": 13.9,
+      "revenue_billions": 125.8,
+      "capex_to_rd_ratio": 0.83,
+      "rd_pct_revenue": 13.4,
+      "capex_pct_revenue": 11.1,
+      "capex_minus_rd_billions": -3.0
+    },
+    {
+      "company": "Microsoft",
+      "year": 2020,
+      "rd_billions": 19.3,
+      "capex_billions": 15.4,
+      "revenue_billions": 143.0,
+      "capex_to_rd_ratio": 0.8,
+      "rd_pct_revenue": 13.5,
+      "capex_pct_revenue": 10.8,
+      "capex_minus_rd_billions": -3.8
+    },
+    {
+      "company": "Microsoft",
+      "year": 2021,
+      "rd_billions": 20.7,
+      "capex_billions": 20.6,
+      "revenue_billions": 168.1,
+      "capex_to_rd_ratio": 1.0,
+      "rd_pct_revenue": 12.3,
+      "capex_pct_revenue": 12.3,
+      "capex_minus_rd_billions": -0.1
+    },
+    {
+      "company": "Microsoft",
+      "year": 2022,
+      "rd_billions": 24.5,
+      "capex_billions": 23.9,
+      "revenue_billions": 198.3,
+      "capex_to_rd_ratio": 0.97,
+      "rd_pct_revenue": 12.4,
+      "capex_pct_revenue": 12.0,
+      "capex_minus_rd_billions": -0.6
+    },
+    {
+      "company": "Microsoft",
+      "year": 2023,
+      "rd_billions": 27.2,
+      "capex_billions": 28.1,
+      "revenue_billions": 211.9,
+      "capex_to_rd_ratio": 1.03,
+      "rd_pct_revenue": 12.8,
+      "capex_pct_revenue": 13.3,
+      "capex_minus_rd_billions": 0.9
+    },
+    {
+      "company": "Microsoft",
+      "year": 2024,
+      "rd_billions": 29.5,
+      "capex_billions": 44.5,
+      "revenue_billions": 245.1,
+      "capex_to_rd_ratio": 1.51,
+      "rd_pct_revenue": 12.0,
+      "capex_pct_revenue": 18.1,
+      "capex_minus_rd_billions": 15.0
+    },
+    {
+      "company": "Microsoft",
+      "year": 2025,
+      "rd_billions": 32.5,
+      "capex_billions": 64.6,
+      "revenue_billions": 281.7,
+      "capex_to_rd_ratio": 1.99,
+      "rd_pct_revenue": 11.5,
+      "capex_pct_revenue": 22.9,
+      "capex_minus_rd_billions": 32.1
+    }
+  ],
+  "Alphabet": [
+    {
+      "company": "Alphabet",
+      "year": 2015,
+      "rd_billions": 12.3,
+      "capex_billions": 9.9,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 0.81,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": -2.4
+    },
+    {
+      "company": "Alphabet",
+      "year": 2016,
+      "rd_billions": 13.9,
+      "capex_billions": 10.2,
+      "revenue_billions": 90.3,
+      "capex_to_rd_ratio": 0.73,
+      "rd_pct_revenue": 15.5,
+      "capex_pct_revenue": 11.3,
+      "capex_minus_rd_billions": -3.7
+    },
+    {
+      "company": "Alphabet",
+      "year": 2017,
+      "rd_billions": 16.6,
+      "capex_billions": 13.2,
+      "revenue_billions": 110.9,
+      "capex_to_rd_ratio": 0.79,
+      "rd_pct_revenue": 15.0,
+      "capex_pct_revenue": 11.9,
+      "capex_minus_rd_billions": -3.4
+    },
+    {
+      "company": "Alphabet",
+      "year": 2018,
+      "rd_billions": 21.4,
+      "capex_billions": 25.1,
+      "revenue_billions": 136.8,
+      "capex_to_rd_ratio": 1.17,
+      "rd_pct_revenue": 15.7,
+      "capex_pct_revenue": 18.4,
+      "capex_minus_rd_billions": 3.7
+    },
+    {
+      "company": "Alphabet",
+      "year": 2019,
+      "rd_billions": 26.0,
+      "capex_billions": 23.5,
+      "revenue_billions": 161.9,
+      "capex_to_rd_ratio": 0.91,
+      "rd_pct_revenue": 16.1,
+      "capex_pct_revenue": 14.5,
+      "capex_minus_rd_billions": -2.5
+    },
+    {
+      "company": "Alphabet",
+      "year": 2020,
+      "rd_billions": 27.6,
+      "capex_billions": 22.3,
+      "revenue_billions": 182.5,
+      "capex_to_rd_ratio": 0.81,
+      "rd_pct_revenue": 15.1,
+      "capex_pct_revenue": 12.2,
+      "capex_minus_rd_billions": -5.3
+    },
+    {
+      "company": "Alphabet",
+      "year": 2021,
+      "rd_billions": 31.6,
+      "capex_billions": 24.6,
+      "revenue_billions": 257.6,
+      "capex_to_rd_ratio": 0.78,
+      "rd_pct_revenue": 12.3,
+      "capex_pct_revenue": 9.6,
+      "capex_minus_rd_billions": -6.9
+    },
+    {
+      "company": "Alphabet",
+      "year": 2022,
+      "rd_billions": 39.5,
+      "capex_billions": 31.5,
+      "revenue_billions": 282.8,
+      "capex_to_rd_ratio": 0.8,
+      "rd_pct_revenue": 14.0,
+      "capex_pct_revenue": 11.1,
+      "capex_minus_rd_billions": -8.0
+    },
+    {
+      "company": "Alphabet",
+      "year": 2023,
+      "rd_billions": 45.4,
+      "capex_billions": 32.3,
+      "revenue_billions": 307.4,
+      "capex_to_rd_ratio": 0.71,
+      "rd_pct_revenue": 14.8,
+      "capex_pct_revenue": 10.5,
+      "capex_minus_rd_billions": -13.2
+    },
+    {
+      "company": "Alphabet",
+      "year": 2024,
+      "rd_billions": 49.3,
+      "capex_billions": 52.5,
+      "revenue_billions": 350.0,
+      "capex_to_rd_ratio": 1.07,
+      "rd_pct_revenue": 14.1,
+      "capex_pct_revenue": 15.0,
+      "capex_minus_rd_billions": 3.2
+    },
+    {
+      "company": "Alphabet",
+      "year": 2025,
+      "rd_billions": 61.1,
+      "capex_billions": 91.4,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 1.5,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": 30.4
+    }
+  ],
+  "Meta": [
+    {
+      "company": "Meta",
+      "year": 2015,
+      "rd_billions": 4.8,
+      "capex_billions": 2.5,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 0.52,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": -2.3
+    },
+    {
+      "company": "Meta",
+      "year": 2016,
+      "rd_billions": 5.9,
+      "capex_billions": 4.5,
+      "revenue_billions": 27.6,
+      "capex_to_rd_ratio": 0.76,
+      "rd_pct_revenue": 21.4,
+      "capex_pct_revenue": 16.2,
+      "capex_minus_rd_billions": -1.4
+    },
+    {
+      "company": "Meta",
+      "year": 2017,
+      "rd_billions": 7.8,
+      "capex_billions": 6.7,
+      "revenue_billions": 40.7,
+      "capex_to_rd_ratio": 0.87,
+      "rd_pct_revenue": 19.1,
+      "capex_pct_revenue": 16.6,
+      "capex_minus_rd_billions": -1.0
+    },
+    {
+      "company": "Meta",
+      "year": 2018,
+      "rd_billions": 10.3,
+      "capex_billions": 13.9,
+      "revenue_billions": 55.8,
+      "capex_to_rd_ratio": 1.35,
+      "rd_pct_revenue": 18.4,
+      "capex_pct_revenue": 24.9,
+      "capex_minus_rd_billions": 3.6
+    },
+    {
+      "company": "Meta",
+      "year": 2019,
+      "rd_billions": 13.6,
+      "capex_billions": 15.1,
+      "revenue_billions": 70.7,
+      "capex_to_rd_ratio": 1.11,
+      "rd_pct_revenue": 19.2,
+      "capex_pct_revenue": 21.4,
+      "capex_minus_rd_billions": 1.5
+    },
+    {
+      "company": "Meta",
+      "year": 2020,
+      "rd_billions": 18.4,
+      "capex_billions": 15.1,
+      "revenue_billions": 86.0,
+      "capex_to_rd_ratio": 0.82,
+      "rd_pct_revenue": 21.5,
+      "capex_pct_revenue": 17.6,
+      "capex_minus_rd_billions": -3.3
+    },
+    {
+      "company": "Meta",
+      "year": 2021,
+      "rd_billions": 24.7,
+      "capex_billions": 18.6,
+      "revenue_billions": 117.9,
+      "capex_to_rd_ratio": 0.75,
+      "rd_pct_revenue": 20.9,
+      "capex_pct_revenue": 15.7,
+      "capex_minus_rd_billions": -6.1
+    },
+    {
+      "company": "Meta",
+      "year": 2022,
+      "rd_billions": 35.3,
+      "capex_billions": 31.4,
+      "revenue_billions": 116.6,
+      "capex_to_rd_ratio": 0.89,
+      "rd_pct_revenue": 30.3,
+      "capex_pct_revenue": 27.0,
+      "capex_minus_rd_billions": -3.9
+    },
+    {
+      "company": "Meta",
+      "year": 2023,
+      "rd_billions": 38.5,
+      "capex_billions": 27.3,
+      "revenue_billions": 134.9,
+      "capex_to_rd_ratio": 0.71,
+      "rd_pct_revenue": 28.5,
+      "capex_pct_revenue": 20.2,
+      "capex_minus_rd_billions": -11.2
+    },
+    {
+      "company": "Meta",
+      "year": 2024,
+      "rd_billions": 43.9,
+      "capex_billions": 37.3,
+      "revenue_billions": 164.5,
+      "capex_to_rd_ratio": 0.85,
+      "rd_pct_revenue": 26.7,
+      "capex_pct_revenue": 22.6,
+      "capex_minus_rd_billions": -6.6
+    },
+    {
+      "company": "Meta",
+      "year": 2025,
+      "rd_billions": 57.4,
+      "capex_billions": 69.7,
+      "revenue_billions": 201.0,
+      "capex_to_rd_ratio": 1.21,
+      "rd_pct_revenue": 28.5,
+      "capex_pct_revenue": 34.7,
+      "capex_minus_rd_billions": 12.3
+    }
+  ],
+  "Apple": [
+    {
+      "company": "Apple",
+      "year": 2015,
+      "rd_billions": 8.1,
+      "capex_billions": 11.2,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 1.39,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": 3.2
+    },
+    {
+      "company": "Apple",
+      "year": 2016,
+      "rd_billions": 10.0,
+      "capex_billions": 12.7,
+      "revenue_billions": null,
+      "capex_to_rd_ratio": 1.27,
+      "rd_pct_revenue": null,
+      "capex_pct_revenue": null,
+      "capex_minus_rd_billions": 2.7
+    },
+    {
+      "company": "Apple",
+      "year": 2017,
+      "rd_billions": 11.6,
+      "capex_billions": 12.5,
+      "revenue_billions": 229.2,
+      "capex_to_rd_ratio": 1.08,
+      "rd_pct_revenue": 5.1,
+      "capex_pct_revenue": 5.4,
+      "capex_minus_rd_billions": 0.9
+    },
+    {
+      "company": "Apple",
+      "year": 2018,
+      "rd_billions": 14.2,
+      "capex_billions": 13.3,
+      "revenue_billions": 265.6,
+      "capex_to_rd_ratio": 0.94,
+      "rd_pct_revenue": 5.4,
+      "capex_pct_revenue": 5.0,
+      "capex_minus_rd_billions": -0.9
+    },
+    {
+      "company": "Apple",
+      "year": 2019,
+      "rd_billions": 16.2,
+      "capex_billions": 10.5,
+      "revenue_billions": 260.2,
+      "capex_to_rd_ratio": 0.65,
+      "rd_pct_revenue": 6.2,
+      "capex_pct_revenue": 4.0,
+      "capex_minus_rd_billions": -5.7
+    },
+    {
+      "company": "Apple",
+      "year": 2020,
+      "rd_billions": 18.8,
+      "capex_billions": 7.3,
+      "revenue_billions": 274.5,
+      "capex_to_rd_ratio": 0.39,
+      "rd_pct_revenue": 6.8,
+      "capex_pct_revenue": 2.7,
+      "capex_minus_rd_billions": -11.4
+    },
+    {
+      "company": "Apple",
+      "year": 2021,
+      "rd_billions": 21.9,
+      "capex_billions": 11.1,
+      "revenue_billions": 365.8,
+      "capex_to_rd_ratio": 0.51,
+      "rd_pct_revenue": 6.0,
+      "capex_pct_revenue": 3.0,
+      "capex_minus_rd_billions": -10.8
+    },
+    {
+      "company": "Apple",
+      "year": 2022,
+      "rd_billions": 26.3,
+      "capex_billions": 10.7,
+      "revenue_billions": 394.3,
+      "capex_to_rd_ratio": 0.41,
+      "rd_pct_revenue": 6.7,
+      "capex_pct_revenue": 2.7,
+      "capex_minus_rd_billions": -15.5
+    },
+    {
+      "company": "Apple",
+      "year": 2023,
+      "rd_billions": 29.9,
+      "capex_billions": 11.0,
+      "revenue_billions": 383.3,
+      "capex_to_rd_ratio": 0.37,
+      "rd_pct_revenue": 7.8,
+      "capex_pct_revenue": 2.9,
+      "capex_minus_rd_billions": -19.0
+    },
+    {
+      "company": "Apple",
+      "year": 2024,
+      "rd_billions": 31.4,
+      "capex_billions": 9.4,
+      "revenue_billions": 391.0,
+      "capex_to_rd_ratio": 0.3,
+      "rd_pct_revenue": 8.0,
+      "capex_pct_revenue": 2.4,
+      "capex_minus_rd_billions": -21.9
+    },
+    {
+      "company": "Apple",
+      "year": 2025,
+      "rd_billions": 34.5,
+      "capex_billions": 12.7,
+      "revenue_billions": 416.2,
+      "capex_to_rd_ratio": 0.37,
+      "rd_pct_revenue": 8.3,
+      "capex_pct_revenue": 3.1,
+      "capex_minus_rd_billions": -21.8
+    }
+  ]
+}
