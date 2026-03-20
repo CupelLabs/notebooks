@@ -1,0 +1,24 @@
+{
+	"company": "OpenAI",
+	"fetched_at": "2026-03-19T10:51:00.686602Z",
+	"cleaned_at": "2026-03-19T11:06:54.235201Z",
+	"raw_count": 106,
+	"clean_count": 62,
+	"rejected_count": 44,
+	"total_patents": 62,
+	"granted": 23,
+	"applications": 39,
+	"date_range": {
+		"earliest": "20230123",
+		"latest": "20251014"
+	},
+	"top_cpc_sections": {
+		"G06F": 46,
+		"G06N": 26,
+		"G06T": 13,
+		"G06V": 13,
+		"H04N": 2,
+		"H04L": 1
+	},
+	"unique_inventors": 98
+}
