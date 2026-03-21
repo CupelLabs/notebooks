@@ -1,0 +1,533 @@
+{
+  "audit_rates_over_time": [
+    {
+      "year": 2010,
+      "bracket": "$1-$25K",
+      "rate": 1.028
+    },
+    {
+      "year": 2010,
+      "bracket": "$10M+",
+      "rate": 21.498
+    },
+    {
+      "year": 2010,
+      "bracket": "$1M-$5M",
+      "rate": 8.185
+    },
+    {
+      "year": 2010,
+      "bracket": "$200K-$500K",
+      "rate": 2.283
+    },
+    {
+      "year": 2010,
+      "bracket": "EITC",
+      "rate": 1.813
+    },
+    {
+      "year": 2011,
+      "bracket": "$1-$25K",
+      "rate": 0.994
+    },
+    {
+      "year": 2011,
+      "bracket": "$10M+",
+      "rate": 18.092
+    },
+    {
+      "year": 2011,
+      "bracket": "$1M-$5M",
+      "rate": 6.454
+    },
+    {
+      "year": 2011,
+      "bracket": "$200K-$500K",
+      "rate": 1.658
+    },
+    {
+      "year": 2011,
+      "bracket": "EITC",
+      "rate": 1.769
+    },
+    {
+      "year": 2012,
+      "bracket": "$1-$25K",
+      "rate": 0.98
+    },
+    {
+      "year": 2012,
+      "bracket": "$10M+",
+      "rate": 13.62
+    },
+    {
+      "year": 2012,
+      "bracket": "$1M-$5M",
+      "rate": 4.912
+    },
+    {
+      "year": 2012,
+      "bracket": "$200K-$500K",
+      "rate": 1.614
+    },
+    {
+      "year": 2012,
+      "bracket": "EITC",
+      "rate": 1.832
+    },
+    {
+      "year": 2013,
+      "bracket": "$1-$25K",
+      "rate": 0.829
+    },
+    {
+      "year": 2013,
+      "bracket": "$10M+",
+      "rate": 11.874
+    },
+    {
+      "year": 2013,
+      "bracket": "$1M-$5M",
+      "rate": 2.976
+    },
+    {
+      "year": 2013,
+      "bracket": "$200K-$500K",
+      "rate": 0.82
+    },
+    {
+      "year": 2013,
+      "bracket": "EITC",
+      "rate": 1.477
+    },
+    {
+      "year": 2014,
+      "bracket": "$1-$25K",
+      "rate": 0.712
+    },
+    {
+      "year": 2014,
+      "bracket": "$10M+",
+      "rate": 9.415
+    },
+    {
+      "year": 2014,
+      "bracket": "$1M-$5M",
+      "rate": 2.615
+    },
+    {
+      "year": 2014,
+      "bracket": "$200K-$500K",
+      "rate": 0.56
+    },
+    {
+      "year": 2014,
+      "bracket": "EITC",
+      "rate": 1.263
+    },
+    {
+      "year": 2015,
+      "bracket": "$1-$25K",
+      "rate": 0.662
+    },
+    {
+      "year": 2015,
+      "bracket": "$10M+",
+      "rate": 8.795
+    },
+    {
+      "year": 2015,
+      "bracket": "$1M-$5M",
+      "rate": 2.437
+    },
+    {
+      "year": 2015,
+      "bracket": "$200K-$500K",
+      "rate": 0.558
+    },
+    {
+      "year": 2015,
+      "bracket": "EITC",
+      "rate": 1.172
+    },
+    {
+      "year": 2016,
+      "bracket": "$1-$25K",
+      "rate": 0.645
+    },
+    {
+      "year": 2016,
+      "bracket": "$10M+",
+      "rate": 7.901
+    },
+    {
+      "year": 2016,
+      "bracket": "$1M-$5M",
+      "rate": 2.49
+    },
+    {
+      "year": 2016,
+      "bracket": "$200K-$500K",
+      "rate": 0.547
+    },
+    {
+      "year": 2016,
+      "bracket": "EITC",
+      "rate": 1.207
+    },
+    {
+      "year": 2017,
+      "bracket": "$1-$25K",
+      "rate": 0.573
+    },
+    {
+      "year": 2017,
+      "bracket": "$10M+",
+      "rate": 6.317
+    },
+    {
+      "year": 2017,
+      "bracket": "$1M-$5M",
+      "rate": 2.047
+    },
+    {
+      "year": 2017,
+      "bracket": "$200K-$500K",
+      "rate": 0.431
+    },
+    {
+      "year": 2017,
+      "bracket": "EITC",
+      "rate": 1.05
+    },
+    {
+      "year": 2018,
+      "bracket": "$1-$25K",
+      "rate": 0.423
+    },
+    {
+      "year": 2018,
+      "bracket": "$10M+",
+      "rate": 9.232
+    },
+    {
+      "year": 2018,
+      "bracket": "$1M-$5M",
+      "rate": 1.192
+    },
+    {
+      "year": 2018,
+      "bracket": "$200K-$500K",
+      "rate": 0.258
+    },
+    {
+      "year": 2018,
+      "bracket": "EITC",
+      "rate": 0.916
+    },
+    {
+      "year": 2019,
+      "bracket": "$1-$25K",
+      "rate": 0.437
+    },
+    {
+      "year": 2019,
+      "bracket": "$10M+",
+      "rate": 10.185
+    },
+    {
+      "year": 2019,
+      "bracket": "$1M-$5M",
+      "rate": 1.47
+    },
+    {
+      "year": 2019,
+      "bracket": "$200K-$500K",
+      "rate": 0.245
+    },
+    {
+      "year": 2019,
+      "bracket": "EITC",
+      "rate": 0.783
+    },
+    {
+      "year": 2020,
+      "bracket": "$1-$25K",
+      "rate": 0.396
+    },
+    {
+      "year": 2020,
+      "bracket": "$10M+",
+      "rate": 2.428
+    },
+    {
+      "year": 2020,
+      "bracket": "$1M-$5M",
+      "rate": 0.421
+    },
+    {
+      "year": 2020,
+      "bracket": "$200K-$500K",
+      "rate": 0.153
+    },
+    {
+      "year": 2020,
+      "bracket": "EITC",
+      "rate": 0.928
+    },
+    {
+      "year": 2021,
+      "bracket": "$1-$25K",
+      "rate": 0.401
+    },
+    {
+      "year": 2021,
+      "bracket": "$10M+",
+      "rate": 2.907
+    },
+    {
+      "year": 2021,
+      "bracket": "$1M-$5M",
+      "rate": 0.498
+    },
+    {
+      "year": 2021,
+      "bracket": "$200K-$500K",
+      "rate": 0.095
+    },
+    {
+      "year": 2021,
+      "bracket": "EITC",
+      "rate": 0.679
+    },
+    {
+      "year": 2022,
+      "bracket": "$1-$25K",
+      "rate": 0.4
+    },
+    {
+      "year": 2022,
+      "bracket": "$10M+",
+      "rate": 4.0
+    },
+    {
+      "year": 2022,
+      "bracket": "$1M-$5M",
+      "rate": 1.1
+    },
+    {
+      "year": 2022,
+      "bracket": "$200K-$500K",
+      "rate": 0.1
+    },
+    {
+      "year": 2022,
+      "bracket": "EITC",
+      "rate": 0.7
+    }
+  ],
+  "staffing": [
+    {
+      "year": 1995,
+      "fte": 112024,
+      "collections_billions": 1375.7
+    },
+    {
+      "year": 1996,
+      "fte": 106642,
+      "collections_billions": 1486.5
+    },
+    {
+      "year": 1997,
+      "fte": 101703,
+      "collections_billions": 1623.3
+    },
+    {
+      "year": 1998,
+      "fte": 98037,
+      "collections_billions": 1769.4
+    },
+    {
+      "year": 1999,
+      "fte": 98730,
+      "collections_billions": 1904.2
+    },
+    {
+      "year": 2000,
+      "fte": 97074,
+      "collections_billions": 2096.9
+    },
+    {
+      "year": 2001,
+      "fte": 97707,
+      "collections_billions": 2128.8
+    },
+    {
+      "year": 2002,
+      "fte": 99181,
+      "collections_billions": 2016.6
+    },
+    {
+      "year": 2003,
+      "fte": 98819,
+      "collections_billions": 1952.9
+    },
+    {
+      "year": 2004,
+      "fte": 97597,
+      "collections_billions": 2018.5
+    },
+    {
+      "year": 2005,
+      "fte": 94282,
+      "collections_billions": 2268.9
+    },
+    {
+      "year": 2006,
+      "fte": 91717,
+      "collections_billions": 2518.7
+    },
+    {
+      "year": 2007,
+      "fte": 92017,
+      "collections_billions": 2691.5
+    },
+    {
+      "year": 2008,
+      "fte": 90647,
+      "collections_billions": 2745.0
+    },
+    {
+      "year": 2009,
+      "fte": 92577,
+      "collections_billions": 2345.3
+    },
+    {
+      "year": 2010,
+      "fte": 94711,
+      "collections_billions": 2345.1
+    },
+    {
+      "year": 2011,
+      "fte": 94709,
+      "collections_billions": 2415.0
+    },
+    {
+      "year": 2012,
+      "fte": 90280,
+      "collections_billions": 2524.3
+    },
+    {
+      "year": 2013,
+      "fte": 86974,
+      "collections_billions": 2855.1
+    },
+    {
+      "year": 2014,
+      "fte": 84133,
+      "collections_billions": 3064.3
+    },
+    {
+      "year": 2015,
+      "fte": 79890,
+      "collections_billions": 3302.7
+    },
+    {
+      "year": 2016,
+      "fte": 77924,
+      "collections_billions": 3333.4
+    },
+    {
+      "year": 2017,
+      "fte": 76832,
+      "collections_billions": 3416.7
+    },
+    {
+      "year": 2018,
+      "fte": 73519,
+      "collections_billions": 3465.5
+    },
+    {
+      "year": 2019,
+      "fte": 73554,
+      "collections_billions": 3564.6
+    },
+    {
+      "year": 2020,
+      "fte": 75773,
+      "collections_billions": 3493.1
+    },
+    {
+      "year": 2021,
+      "fte": 78661,
+      "collections_billions": 4111.6
+    },
+    {
+      "year": 2022,
+      "fte": 79070,
+      "collections_billions": 4901.5
+    },
+    {
+      "year": 2023,
+      "fte": 82990,
+      "collections_billions": 4694.3
+    },
+    {
+      "year": 2024,
+      "fte": 90516,
+      "collections_billions": 5100.5
+    }
+  ],
+  "latest_brackets": [
+    {
+      "bracket": "$1-$25K",
+      "rate": 0.4,
+      "returns_filed": 42539044
+    },
+    {
+      "bracket": "$100K-$200K",
+      "rate": 0.1,
+      "returns_filed": 26782219
+    },
+    {
+      "bracket": "$10M+",
+      "rate": 4.0,
+      "returns_filed": 42191
+    },
+    {
+      "bracket": "$1M-$5M",
+      "rate": 1.1,
+      "returns_filed": 839856
+    },
+    {
+      "bracket": "$200K-$500K",
+      "rate": 0.1,
+      "returns_filed": 10632180
+    },
+    {
+      "bracket": "$25K-$50K",
+      "rate": 0.2,
+      "returns_filed": 36910750
+    },
+    {
+      "bracket": "$500K-$1M",
+      "rate": 0.6,
+      "returns_filed": 1875646
+    },
+    {
+      "bracket": "$50K-$75K",
+      "rate": 0.1,
+      "returns_filed": 24185929
+    },
+    {
+      "bracket": "$5M-$10M",
+      "rate": 3.1,
+      "returns_filed": 63842
+    },
+    {
+      "bracket": "$75K-$100K",
+      "rate": 0.1,
+      "returns_filed": 15518078
+    }
+  ]
+}
