@@ -1,0 +1,6 @@
+category,type,npv_3pct,npv_7pct,annualized_3pct,annualized_7pct
+Vehicle Technology,savings,1140,750,59.0,61.0
+EVSE & Replacements,savings,200,120,11.0,9.6
+"Fuel, Repair, Maintenance, Insurance, Congestion & Noise",cost,-380,-170,-20.0,-14.0
+"Energy Security, Refueling Time, Drive Value",cost,-46,-26,-2.4,-2.1
+Net Monetized Impacts,net,920,680,48.0,55.0

@@ -1,0 +1,16 @@
+{
+  "factsheet_total_savings_claim": 1300,
+  "factsheet_vehicle_savings": 1100,
+  "factsheet_evse_savings": 200,
+  "ria_a1_vehicle_tech_savings": 1090,
+  "ria_a1_evse_savings": 200,
+  "ria_a1_gross_savings": 1290,
+  "ria_a1_total_costs": 1470,
+  "ria_a1_net_impact": -180,
+  "factsheet_omits_costs_of": 1470,
+  "per_vehicle_count": 469000000,
+  "per_vehicle_tech_savings_usd": 2324,
+  "per_vehicle_net_cost_usd": 384,
+  "factsheet_per_vehicle_claim": 2400,
+  "ria_per_vehicle_calculation": 2330
+}

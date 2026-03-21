@@ -1,0 +1,58 @@
+[
+  {
+    "scenario": "A1",
+    "description": "Reference prices, full fuel costs",
+    "uses_low_oil_prices": false,
+    "uses_2_5yr_fuel_valuation": false,
+    "gross_savings_3pct": 1290,
+    "total_costs_3pct": 1470,
+    "net_impact_3pct": -180,
+    "gross_savings_7pct": 850,
+    "total_costs_7pct": 753,
+    "net_impact_7pct": 89,
+    "shows_net_cost_at_3pct": true,
+    "shows_net_cost_at_7pct": false
+  },
+  {
+    "scenario": "A2",
+    "description": "Low oil prices, full fuel costs",
+    "uses_low_oil_prices": true,
+    "uses_2_5yr_fuel_valuation": false,
+    "gross_savings_3pct": 1340,
+    "total_costs_3pct": 1086,
+    "net_impact_3pct": 250,
+    "gross_savings_7pct": 870,
+    "total_costs_7pct": 546,
+    "net_impact_7pct": 320,
+    "shows_net_cost_at_3pct": false,
+    "shows_net_cost_at_7pct": false
+  },
+  {
+    "scenario": "A3",
+    "description": "Reference prices, 2.5yr fuel costs",
+    "uses_low_oil_prices": false,
+    "uses_2_5yr_fuel_valuation": true,
+    "gross_savings_3pct": 1290,
+    "total_costs_3pct": 500,
+    "net_impact_3pct": 790,
+    "gross_savings_7pct": 850,
+    "total_costs_7pct": 243,
+    "net_impact_7pct": 600,
+    "shows_net_cost_at_3pct": false,
+    "shows_net_cost_at_7pct": false
+  },
+  {
+    "scenario": "A4",
+    "description": "Low oil prices, 2.5yr fuel costs",
+    "uses_low_oil_prices": true,
+    "uses_2_5yr_fuel_valuation": true,
+    "gross_savings_3pct": 1340,
+    "total_costs_3pct": 426,
+    "net_impact_3pct": 920,
+    "gross_savings_7pct": 870,
+    "total_costs_7pct": 196,
+    "net_impact_7pct": 680,
+    "shows_net_cost_at_3pct": false,
+    "shows_net_cost_at_7pct": false
+  }
+]

@@ -1,0 +1,21 @@
+scenario,category,type,npv_3pct_billions,npv_7pct_billions,annualized_3pct_billions,annualized_7pct_billions
+A1,Vehicle Technology,savings,1090,730,57.0,59.0
+A1,EVSE & Replacements,savings,200,120,11.0,9.6
+A1,"Fuel, Repair, Maintenance, Insurance, Congestion & Noise",cost,-1430,-730,-75.0,-60.0
+A1,"Energy Security, Refueling Time, Drive Value",cost,-40,-23,-2.1,-1.9
+A1,Net Monetized Impacts,net,-180,89,-9.1,7.3
+A2,Vehicle Technology,savings,1140,750,59.0,61.0
+A2,EVSE & Replacements,savings,200,120,11.0,9.6
+A2,"Fuel, Repair, Maintenance, Insurance, Congestion & Noise",cost,-1040,-520,-54.0,-42.0
+A2,"Energy Security, Refueling Time, Drive Value",cost,-46,-26,-2.4,-2.1
+A2,Net Monetized Impacts,net,250,320,13.0,27.0
+A3,Vehicle Technology,savings,1090,730,57.0,59.0
+A3,EVSE & Replacements,savings,200,120,11.0,9.6
+A3,"Fuel, Repair, Maintenance, Insurance, Congestion & Noise",cost,-460,-220,-24.0,-18.0
+A3,"Energy Security, Refueling Time, Drive Value",cost,-40,-23,-2.1,-1.9
+A3,Net Monetized Impacts,net,790,600,41.0,49.0
+A4,Vehicle Technology,savings,1140,750,59.0,61.0
+A4,EVSE & Replacements,savings,200,120,11.0,9.6
+A4,"Fuel, Repair, Maintenance, Insurance, Congestion & Noise",cost,-380,-170,-20.0,-14.0
+A4,"Energy Security, Refueling Time, Drive Value",cost,-46,-26,-2.4,-2.1
+A4,Net Monetized Impacts,net,920,680,48.0,55.0

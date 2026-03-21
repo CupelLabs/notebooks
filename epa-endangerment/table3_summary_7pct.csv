@@ -1,0 +1,5 @@
+scenario,description,savings_7pct,costs_7pct,net_7pct
+A1,AEO 2025 Reference prices,850,760,89
+A2,AEO 2025 Low Oil Price,870,550,320
+A3,"Reference prices, 2.5yr fuel valuation",850,240,600
+A4,"Low Oil Price, 2.5yr fuel valuation",870,200,680

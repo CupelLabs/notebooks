@@ -1,0 +1,18 @@
+{
+  "reference_prices": {
+    "full_lifetime_fuel_cost": 1430,
+    "2_5yr_fuel_cost": 460,
+    "pct_reduction": 67.8,
+    "net_impact_full": -180,
+    "net_impact_2_5yr": 790,
+    "swing_billions": 970
+  },
+  "low_oil_prices": {
+    "full_lifetime_fuel_cost": 1040,
+    "2_5yr_fuel_cost": 380,
+    "pct_reduction": 63.5,
+    "net_impact_full": 250,
+    "net_impact_2_5yr": 920,
+    "swing_billions": 670
+  }
+}

@@ -1,0 +1,5 @@
+scenario,description,uses_low_oil_prices,uses_2_5yr_fuel_valuation,gross_savings_3pct,total_costs_3pct,net_impact_3pct,gross_savings_7pct,total_costs_7pct,net_impact_7pct,shows_net_cost_at_3pct,shows_net_cost_at_7pct
+A1,"Reference prices, full fuel costs",False,False,1290,1470,-180,850,753,89,True,False
+A2,"Low oil prices, full fuel costs",True,False,1340,1086,250,870,546,320,False,False
+A3,"Reference prices, 2.5yr fuel costs",False,True,1290,500,790,850,243,600,False,False
+A4,"Low oil prices, 2.5yr fuel costs",True,True,1340,426,920,870,196,680,False,False
