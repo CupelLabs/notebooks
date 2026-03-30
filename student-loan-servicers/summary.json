@@ -1,0 +1,13 @@
+{
+  "total_complaints": 83680,
+  "federal_complaints": 63111,
+  "date_range": "2018-01-01 17:00:00+00:00 to 2026-03-24 17:00:00+00:00",
+  "key_servicers_complaint_counts": {
+    "MOHELA": 18227,
+    "Nelnet, Inc.": 11315,
+    "Navient Solutions, LLC.": 8166,
+    "AES/PHEAA": 6840,
+    "Maximus Federal Services, Inc.": 6319,
+    "EdFinancial Services": 5213
+  }
+}
